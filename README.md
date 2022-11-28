@@ -4,7 +4,7 @@
 - 🌱  正在学习 solidity 和 web3
 - 🐶  有一只狗狗
 - 🎮  正在玩 Dota2 和 Diablo2.
-- 🤖  主要技术栈：`Svelte` `Vue` `React` `Nodejs` `Hapijs` `Github CI CD`
+- 🤖  主要技术栈：`Svelte` `Vue` `React` `Nodejs` `Hapijs` `Github Actions`
 - 💬  wechat: princess_war
 - 📫  princesswar721@gmail.com
 
