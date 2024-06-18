@@ -8,5 +8,6 @@
 - 🧸  工具：`vitest` `jest` `storybook` `playwright` `vite`
 - 💬  wechat: princess_war
 - 📫  princesswar721@gmail.com
+- ✈️  https://t.me/x_ray_i
 
 ![x-ray-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=x-ray-s&show_icons=true&theme=radical)
